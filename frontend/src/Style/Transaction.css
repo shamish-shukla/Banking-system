@@ -1,0 +1,26 @@
+.mid-tran h2{
+    margin-top:10px;
+    text-align: center;
+    color:blue;
+}
+.mid-tran table{
+    margin-left:29%;
+}
+
+.mid-tran td{
+    color:white;
+    padding:10px;
+    background-color: black;
+    border:1px solid black;
+    border-spacing: 10px;
+    width:150px;
+    text-align: center;
+
+}
+.data-table th{
+    color:green;
+    padding:10px;
+    border:1px solid black;
+    width:150px;
+    
+}

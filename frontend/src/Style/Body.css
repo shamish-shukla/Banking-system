@@ -1,0 +1,19 @@
+.first-content{
+    display: flex;
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+    height: 531px;
+}
+.first-content span{
+    color:white;
+    font-size: 40px;
+    width:300px;
+    text-align:center;
+
+}
+.first-content p{
+    margin-top: 10%;
+    font-size: 30px;
+    color:chartreuse;
+    text-align: center;
+    margin-left:32%;
+}

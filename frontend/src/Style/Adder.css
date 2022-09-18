@@ -1,0 +1,31 @@
+.add-customers  form{
+    background-color:blue;
+    width:300px;
+    height:300px;
+    margin-left:38%;
+    margin-top:8%;
+    padding:10px;
+    border-radius: 10px;
+}
+form input{
+    width:275px;
+    border-radius:10px;
+    border:0px;
+    margin:10px;
+    height:40px;
+}
+form button{
+    margin-left:80px;
+    margin-top:10px;
+    width:150px;
+    border:0px;
+    color:white;
+    height:30px;
+    border-radius: 10px;
+    background-color: red;
+}
+form h3{
+    text-align:center;
+    color:white;
+    font-size: 22px;;
+}
