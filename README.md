@@ -4,5 +4,6 @@ It is a Basic Banking System in which we can send money from one user to another
 2.Add Customer: In this we can add new customer by getting his/her details thorugh from.
 3.Transaction History: In this we can see which customer transfer how much amount to the other customer.
 
-Below attaching the websites screenshot of each part   Home
+Below attaching the websites screenshot of each part   
+                                              Home
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191096481-b79e6908-cb2f-457f-b444-b16e097f0777.png">
