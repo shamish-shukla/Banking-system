@@ -5,5 +5,7 @@ It is a Basic Banking System in which we can send money from one user to another
 3.Transaction History: In this we can see which customer transfer how much amount to the other customer.
 
 Below attaching the websites screenshot of each part   
-                                              Home
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191096481-b79e6908-cb2f-457f-b444-b16e097f0777.png">
+
+Home
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191096950-0b199c35-0688-4026-a8fc-8af0d36d55c9.png">
