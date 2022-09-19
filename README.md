@@ -9,3 +9,21 @@ Below attaching the websites screenshot of each part
 Home
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191096950-0b199c35-0688-4026-a8fc-8af0d36d55c9.png">
+
+View Details
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191097100-ffa91e74-f407-4910-bec3-de4119b3d9ae.png">
+
+Add Customer
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191097219-ffb6d64e-8580-485e-bf5c-de9b1a06c10b.png">
+
+Transaction History
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191097342-bac583a4-0a12-42c7-9ca5-d6c74338e33d.png">
+
+Transaction Form
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/76999410/191097410-41f27956-193c-4791-adef-d691ad82b32d.png">
+
+
